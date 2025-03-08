@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Prasath2919/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prasath2919/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0168-excel-sheet-column-title](https://github.com/Prasath2919/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Trie
 |  |
 | ------- |
