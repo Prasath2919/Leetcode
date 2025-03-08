@@ -38,4 +38,12 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prasath2919/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prasath2919/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prasath2919/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
