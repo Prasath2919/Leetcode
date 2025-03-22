@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/Prasath2919/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prasath2919/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Prasath2919/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -16,11 +17,13 @@
 | [0001-two-sum](https://github.com/Prasath2919/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Prasath2919/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prasath2919/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Prasath2919/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +34,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +44,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prasath2919/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
