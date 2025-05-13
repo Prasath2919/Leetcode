@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Prasath2919/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prasath2919/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prasath2919/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Prasath2919/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Prasath2919/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prasath2919/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Prasath2919/Leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Prasath2919/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Prasath2919/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
