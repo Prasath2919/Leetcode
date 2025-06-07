@@ -16,6 +16,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Prasath2919/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [2048-build-array-from-permutation](https://github.com/Prasath2919/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Prasath2919/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,5 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Prasath2919/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Prasath2919/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
