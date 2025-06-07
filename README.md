@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/Prasath2919/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Prasath2919/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1580-shuffle-the-array](https://github.com/Prasath2919/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Prasath2919/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Prasath2919/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Prasath2919/Leetcode/tree/master/2048-build-array-from-permutation) |
