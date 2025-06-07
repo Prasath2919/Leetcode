@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/Prasath2919/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/Prasath2919/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Prasath2919/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Prasath2919/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Prasath2919/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Prasath2919/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Prasath2919/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -29,6 +30,7 @@
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prasath2919/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Prasath2919/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Prasath2919/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Prasath2919/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/Prasath2919/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prasath2919/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Prasath2919/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
