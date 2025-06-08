@@ -75,6 +75,7 @@
 | [0242-valid-anagram](https://github.com/Prasath2919/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prasath2919/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prasath2919/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1205-defanging-an-ip-address](https://github.com/Prasath2919/Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |
