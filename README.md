@@ -67,6 +67,7 @@
 | [0242-valid-anagram](https://github.com/Prasath2919/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prasath2919/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasath2919/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1970-sorting-the-sentence](https://github.com/Prasath2919/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Prasath2919/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Prasath2919/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Prasath2919/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1970-sorting-the-sentence](https://github.com/Prasath2919/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Trie
 |  |
 | ------- |
