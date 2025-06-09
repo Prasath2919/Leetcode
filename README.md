@@ -78,6 +78,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Prasath2919/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/Prasath2919/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Prasath2919/Leetcode/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/Prasath2919/Leetcode/tree/master/1797-goal-parser-interpretation) |
 ## Trie
 |  |
 | ------- |
