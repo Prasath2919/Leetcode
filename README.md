@@ -23,6 +23,7 @@
 | [1791-richest-customer-wealth](https://github.com/Prasath2919/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Prasath2919/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Prasath2919/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prasath2919/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1797-goal-parser-interpretation](https://github.com/Prasath2919/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Prasath2919/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1970-sorting-the-sentence](https://github.com/Prasath2919/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prasath2919/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
 | ------- |
