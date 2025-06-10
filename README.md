@@ -82,6 +82,7 @@
 | [1651-shuffle-string](https://github.com/Prasath2919/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prasath2919/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Prasath2919/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Prasath2919/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1970-sorting-the-sentence](https://github.com/Prasath2919/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Trie
 |  |
@@ -96,6 +97,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prasath2919/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Prasath2919/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Prasath2919/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Simulation
 |  |
 | ------- |
